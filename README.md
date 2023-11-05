@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PeterW1976
-- 👀 I’m interested in MacineLearning and AI
+- 👀 I’m interested in MachineLearning and AI
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me p.walasek@protonmail.com
 
 <!---
